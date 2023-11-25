@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Comic-Creator-Dashtoon/static/css/main.95ef741c.css",
+    "main.js": "/Comic-Creator-Dashtoon/static/js/main.811dd2e5.js",
+    "index.html": "/Comic-Creator-Dashtoon/index.html",
+    "main.95ef741c.css.map": "/Comic-Creator-Dashtoon/static/css/main.95ef741c.css.map",
+    "main.811dd2e5.js.map": "/Comic-Creator-Dashtoon/static/js/main.811dd2e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ef741c.css",
+    "static/js/main.811dd2e5.js"
+  ]
+}
